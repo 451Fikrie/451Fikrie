@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @451Fikrie - Fikri Irfan Adristi
-- 👀 I’m interested in Econometrics
-- 🌱 I’m currently learning Data Science & Econometrics
-- 💞️ I’m looking to collaborate on Data Science & Econometrics
+- 👀 I’m interested in Digital Forensics
+- 🌱 I’m currently learning Digital Forensics
+- 💞️ I’m looking to collaborate on Digital Forensics
 - 📫 How to reach me is contact to email: fikriadristi@gmail.com
 
 <!---
